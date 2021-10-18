@@ -2,5 +2,5 @@
   (lib (name LIBS)(type KiCad)(uri ${KIPRJMOD}/LIBS)(options "")(descr ""))
   (lib (name Graphics)(type KiCad)(uri ${KIPRJMOD}/Graphics.pretty)(options "")(descr ""))
   (lib (name Espressif)(type KiCad)(uri /media/fabio/Dados/Projetos/kicad-libraries/footprints/Espressif.pretty)(options "")(descr ""))
-  (lib (name Franzininho-WIFI-kicad)(type KiCad)(uri ${KIPRJMOD}/LIBS/Franzininho-WIFI-kicad.pretty)(options "")(descr ""))
+  (lib (name Franzininho-WIFI-kicad)(type KiCad)(uri /media/fabio/Dados/Projetos/Franzininho-WIFI-Final/Franzininho-WIFI-kicad/LIBS/Franzininho-WIFI-kicad.pretty)(options "")(descr ""))
 )
