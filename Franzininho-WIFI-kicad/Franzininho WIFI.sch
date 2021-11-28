@@ -519,7 +519,7 @@ F 3 "~" H 1050 6600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	900  7050 900  7200
+	900  7050 900  7100
 Wire Wire Line
 	2600 1650 2750 1650
 Wire Wire Line
@@ -1145,7 +1145,6 @@ Wire Wire Line
 	5750 2650 5600 2650
 Wire Wire Line
 	5850 3900 5600 3900
-NoConn ~ 800  7050
 Wire Wire Line
 	8150 1700 8050 1700
 Wire Wire Line
@@ -2372,4 +2371,11 @@ Wire Notes Line
 	6900 5300 6900 7750
 Text Notes 5450 5500 0    100  ~ 0
 EXP
+Wire Wire Line
+	800  7050 800  7100
+Wire Wire Line
+	800  7100 900  7100
+Connection ~ 900  7100
+Wire Wire Line
+	900  7100 900  7200
 $EndSCHEMATC
