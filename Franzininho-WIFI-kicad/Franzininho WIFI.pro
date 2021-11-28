@@ -1,4 +1,4 @@
-update=sex 15 out 2021 14:23:41
+update=dom 28 nov 2021 19:32:48
 version=1
 last_client=kicad
 [general]
