@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.1.12-84ad8e8a86~92~ubuntu21.04.1*
-G04 #@! TF.CreationDate,2021-11-28T19:25:36-03:00*
+G04 #@! TF.CreationDate,2021-11-29T17:40:15-03:00*
 G04 #@! TF.ProjectId,Franzininho WIFI,4672616e-7a69-46e6-996e-686f20574946,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 5.1.12-84ad8e8a86~92~ubuntu21.04.1) date 2021-11-28 19:25:36*
+G04 Created by KiCad (PCBNEW 5.1.12-84ad8e8a86~92~ubuntu21.04.1) date 2021-11-29 17:40:15*
 %MOMM*%
 %LPD*%
 G01*
