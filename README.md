@@ -7,6 +7,14 @@ The Franzininho WiFi Board is a development board based on the ESP32-S2-WROOM mo
 
 ---
 
+
+## Documentation
+
+For more details, check the official documentation:  
+[Franzininho WiFi Documentation](https://docs.franzininho.com.br/docs/franzininho-wifi/franzininho-wifi)
+
+---
+
 ## Features
 
 - **ESP32-S2-WROOM Module**
